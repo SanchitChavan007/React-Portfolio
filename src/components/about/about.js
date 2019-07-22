@@ -15,7 +15,7 @@ export default class Header extends Component {
             </p>
             </div> {/* end row */}
             <div className="columns download">
-                  <a style = {{backgroundColor: '#11ABB0'}} href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                  <a style = {{backgroundColor: '#11ABB0'}}  href='resume.pdf' className="button"><i className="fa fa-download" />Download Resume</a>
               </div>
           </div> {/* end .main-col */}
       </section>
